@@ -1,4 +1,8 @@
-In this repository I am going to write couple of recommendation system algorithms to start with.
+In this repository I have uploaded the code for movie recommendation.
+
+I got the data from Kaggle
+Dataset link : https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata
+
 Recommendation system are mainly of 3 types:
 1- Content based filtering
 2- Collaborative filtering
